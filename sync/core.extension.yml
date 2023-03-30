@@ -37,6 +37,7 @@ module:
   help: 0
   history: 0
   honeypot: 0
+  httpswww: 0
   image: 0
   language: 0
   link: 0
