@@ -1,0 +1,25 @@
+uuid: 411832a0-dbde-4a9e-aad7-165be8d00633
+langcode: en
+status: false
+dependencies:
+  content:
+    - 'block_content:basic:df22fc78-cad8-4b1d-956f-6a475c183ba1'
+  module:
+    - block_content
+  theme:
+    - telliodora
+id: logo
+theme: telliodora
+region: header
+weight: -8
+provider: null
+plugin: 'block_content:df22fc78-cad8-4b1d-956f-6a475c183ba1'
+settings:
+  id: 'block_content:df22fc78-cad8-4b1d-956f-6a475c183ba1'
+  label: Logo
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

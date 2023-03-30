@@ -1,0 +1,20 @@
+uuid: 8af2e01d-d07c-41c1-b519-659b1fa96866
+langcode: en
+status: true
+dependencies:
+  theme:
+    - telliodora
+_core:
+  default_config_hash: vHYyuV_i5SghNhCmBL__tS8IycjLo7-5w_WCGUrFbzs
+id: telliodora_page_title
+theme: telliodora
+region: content
+weight: -6
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }
