@@ -49,6 +49,7 @@ filters:
       media_switch: ''
       hybrid_style: ''
       box_style: ''
+      box_media_style: ''
       box_caption: ''
       filter_tags:
         img: img
@@ -80,7 +81,6 @@ filters:
     settings:
       optionset: default
       layout: ''
-      skin: ''
       background: false
       loading: ''
       preload: false
@@ -89,6 +89,7 @@ filters:
       media_switch: ''
       ratio: ''
       thumbnail_style: ''
+      skin: ''
       overridables:
         arrows: '0'
         autoplay: '0'
@@ -111,3 +112,9 @@ filters:
     weight: 0
     settings:
       title: true
+  filter_image_lazy_load:
+    id: filter_image_lazy_load
+    provider: filter
+    status: true
+    weight: 12
+    settings: {  }

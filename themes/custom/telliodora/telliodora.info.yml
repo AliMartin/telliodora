@@ -1,7 +1,7 @@
 name: telliodora
 type: theme
 description: 'telliodora subtheme based on Bootstrap 5 theme.'
-core_version_requirement: '^8.9 || ^9'
+core_version_requirement: '^8.9 || ^9 || ^10'
 'base theme': bootstrap5
 libraries:
   - telliodora/global-styling
