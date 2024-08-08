@@ -6,5 +6,6 @@ dependencies:
     - media
 id: media.views_display
 label: 'Views display'
+description: ''
 targetEntityType: media
 cache: true
