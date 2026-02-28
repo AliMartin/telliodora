@@ -20,7 +20,11 @@
   #block-telliodora-branding {
     justify-content: center;
   }
-  #block-languageandmobilemenu {
+  #block-telliodora-title {
+    justify-content: center;
+  }
+  #block-languageandmobilemenu,
+  #block-languageswitcher {
     gap: 15px;
     justify-content: flex-end;
   }
