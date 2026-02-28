@@ -1,15 +1,13 @@
-uuid: 8af2e01d-d07c-41c1-b519-659b1fa96866
+uuid: 9923f4b1-f9f9-4ad9-93a1-e6e3bac4a5ac
 langcode: en
 status: true
 dependencies:
   theme:
     - telliodora
-_core:
-  default_config_hash: vHYyuV_i5SghNhCmBL__tS8IycjLo7-5w_WCGUrFbzs
-id: telliodora_page_title
+id: telliodora_pagetitle
 theme: telliodora
 region: content
-weight: -6
+weight: -9
 provider: null
 plugin: page_title_block
 settings:
